@@ -1,0 +1,14 @@
+.DS_Store
+
+main.cof
+main.err
+main.esym
+main.lst
+main.sta
+main.sym
+main.tre
+main.xsym
+
+/ccs/__history
+/proteus/Project Backups
+/proteus/*.workspace
